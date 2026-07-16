@@ -17,7 +17,7 @@ SUB_URLS = [
 
 # 2. 推广词黑名单（正则表达式）
 # 会自动把节点名称中的这些词语以及多余的符号删掉
-AD_KEYWORDS = r"(官网|网址|获取|地址|最新|免费|更新|订阅|频道|群|TG|QQ|github|vip|proxy|节点|云|xrayvip|Pawdroid|ermaozi|推荐|机场|)"
+AD_KEYWORDS = r"(官网|网址|获取|地址|最新|免费|更新|订阅|频道|群|TG|QQ|github|vip|proxy|节点|云|https://|Pawdroid|ermaozi|推荐|机场|)"
 
 def decode_base64(s):
     """修复Base64并解码"""
