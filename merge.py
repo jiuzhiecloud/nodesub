@@ -12,7 +12,7 @@ SUB_URLS = [
     "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
     "https://raw.githubusercontent.com/jiuzhiecloud/free-node/refs/heads/main/testnode.txt",
     "https://raw.githubusercontent.com/jiuzhiecloud/free-sub/refs/heads/main/data/sub.txt",
-    "https://raw.githubusercontent.com/50430870/free-node/refs/heads/main/data/sub.txt"
+    "https://raw.githubusercontent.com/jiuzhiecloud/free-node/refs/heads/main/data/sub.txt"
 ]
 
 # 2. 推广词黑名单（正则表达式）
