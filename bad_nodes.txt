@@ -1,9 +1,8 @@
 hysteria://dongtaiwang.com@5.83.129.153:20088?alpn=h3&downmbps=1000&insecure=1&sni=apple.com&upmbps=500#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjE1OjQ0Mw==#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 hysteria://dongtaiwang.com@5.83.129.90:54177?alpn=h3&downmbps=55&insecure=1&sni=bing.com&upmbps=11#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://YWVzLTI1Ni1nY206Z2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5n@[2001:bc8:32d7:17b::100]:22222#SS-IPv6
+vless://2567e2e0-8d4c-4c51-aee9-5d1f36024472@[2001:bc8:32d7:302::10]:65513?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg&sid=21569dd6&type=xhttp&path=%2F6eg3r4an#VLESS-xhttp-ipv6
+anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.934618.xyz:22880?security=tls&sni=anytls2.934618.xyz&type=tcp#github-anytls-1
 ssr://c3NyMi43NjI5ODgueHl6OjMzMzM2OmF1dGhfY2hhaW5fYTpjaGFjaGEyMC1pZXRmOnRsczEuMl90aWNrZXRfYXV0aDpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPVUxTlM2SXFDNTRLNQ
 ss://YWVzLTI1Ni1nY206Z2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5n@[2001:bc8:32d7:17b::100]:22222#SS-IPv6
-anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.934618.xyz:22880?security=tls&sni=anytls2.934618.xyz&type=tcp#github-anytls-1
-vless://2567e2e0-8d4c-4c51-aee9-5d1f36024472@[2001:bc8:32d7:302::10]:65513?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg&sid=21569dd6&type=xhttp&path=%2F6eg3r4an#VLESS-xhttp-ipv6
 anytls://github.com%2FAlvin9999-newpac%2Ffanqiang@anytls2.934618.xyz:22880?security=tls&sni=anytls2.934618.xyz&type=tcp#github-anytls-1
