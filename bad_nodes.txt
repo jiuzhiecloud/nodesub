@@ -1,7 +1,4 @@
-vless://XpnTeam-6@140.248.186.45:443?encryption=none&type=ws&security=tls&path=/&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#US%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%912
-vless://mahanvpn-mahanvpn@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&sni=mAhaNrEaliteAm.MaHkHan.iR#CA%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%913
-ss://YWVzLTEyOC1nY206eG82azg0bDdiMDBuMmhKcEAyMy4xODUuMjAwLjEzNTo1Nzg0MQ==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-hysteria://dongtaiwang.com@5.83.129.90:54177?alpn=h3&downmbps=55&insecure=1&sni=bing.com&upmbps=11#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+hysteria://dongtaiwang.com@5.83.129.90:54177?alpn=h3&downmbps=1000&insecure=1&sni=apple.com&upmbps=500#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2a13?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695099ubfb7b8f7s861.gogocs.xyz#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_115
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2605?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695099ue1b9d2e4s552.gogocs.xyz#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_116
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2a13?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=u695099ubfb7b8f7s861.gogocs.xyz#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_118
