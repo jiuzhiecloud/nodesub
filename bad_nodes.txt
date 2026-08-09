@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAOTguODkuNDguMTkxOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 hysteria://dongtaiwang.com@5.83.129.90:54177?alpn=h3&downmbps=1000&insecure=1&sni=apple.com&upmbps=500#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAOTguODkuNDguMTkxOjQ0Mw==#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2a12?flow=xtls-rprx-vision&fp=firefox&host=aa42ed90s220.gogocs.xyz&security=tls&sni=u695099uaa42ed90s220.gogocs.xyz#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_14
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2605?flow=xtls-rprx-vision&fp=firefox&host=e1b9d2e4s552.gogocs.xyz&security=tls&sni=u695099ue1b9d2e4s552.gogocs.xyz#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_18
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2a00?flow=xtls-rprx-vision&fp=firefox&host=53fe439es2358.gogocs.xyz&security=tls&sni=u695099u53fe439es2358.gogocs.xyz#%F0%9F%8F%B3%EF%B8%8F_%E6%9C%AA%E7%9F%A5_30
