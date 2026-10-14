@@ -1,5 +1,6 @@
-trojan://Trojan@82164024@jp.tronsg.com:443?security=tls&sni=jp.tronsg.com#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9128
-trojan://Trojan@82164024@kr.tronsg.com:443?allowInsecure=1&sni=kr.tronsg.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%20%7C%20KOR
+vless://XpnTeam-2@140.248.186.45:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA
+vless://XpnTeam-1@199.232.78.170:443?&security=tls&fp=chrome&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%7C%20FRA
+trojan://Trojan@82164024@in.tronsg.com:443?allowInsecure=1&sni=in.tronsg.com#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20%7C%20IND
 vless://7q4eiwcseu@7q4eiwcseu-193708596-direct.rahbarii.com:443?encryption=none&security=tls&type=tcp&sni=7q4eiwcseu-193708596-direct.rahbarii.com&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7_%E6%B3%95%E5%9B%BD_126
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Bf6aaZ5rivXzI5NyIsImFkZCI6Imxjdjh2OWw3b3lhbXh4Znoudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Bf6aaZ5rivXzI5OCIsImFkZCI6InF0a2RyOGp4ZTN3ZWZ4am0udi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIifQ==
